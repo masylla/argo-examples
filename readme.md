@@ -51,6 +51,4 @@ argocd app delete <appname> #Delete an Argo CD application.
 ```
 
 
-
-
-
+# testing
